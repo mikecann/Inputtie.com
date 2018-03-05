@@ -6,4 +6,4 @@ I exported the site using Simply Static plugin then uploaded to Github and hoste
 
 Massive thanks to all those guys.
 
-I let the Inputtie.com domain lapse but this exported site is visible at: 
+I let the Inputtie.com domain lapse but this exported site is visible at: https://zealous-engelbart-de705e.netlify.com/
