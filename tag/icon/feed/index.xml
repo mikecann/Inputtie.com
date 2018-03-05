@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; icon</title>
+	<atom:link href="/tag/icon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Beta Release!</title>
+		<link>/blog/beta-release/</link>
+		<comments>/blog/beta-release/#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 19:24:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[icon]]></category>
+		<category><![CDATA[initial]]></category>
+		<category><![CDATA[launch]]></category>
+		<category><![CDATA[notes]]></category>
+		<category><![CDATA[patch]]></category>
+		<category><![CDATA[version]]></category>
+
+		<guid isPermaLink="false">/?p=235</guid>
+		<description><![CDATA[Woooo Hooo! Finally after almost a years worth of toiling we have finally released the beta version of Inputtie. Now we have only performed a limited amount of testing so im sure there are going to be bugs-a-plenty. If you&#160;&#8230; <a href="/blog/beta-release/">Continue&#160;reading&#160;<span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/ScreenHunter_01-Sep.-22-19.58.png"><img class="alignnone size-full wp-image-1355" title="ScreenHunter_01 Sep. 22 19.58" src="http://mikecann.co.uk/wp-content/uploads/2010/09/ScreenHunter_01-Sep.-22-19.58.png" alt="" width="489" height="255" /></a></p>
+<p>Woooo Hooo! Finally after almost a years worth of toiling we have finally released the beta version of <a href="/">Inputtie</a>.</p>
+<p>Now we have only performed a limited amount of testing so im sure there are going to be bugs-a-plenty. If you find something we would love to hear about it. We dont currently have a dedicated email address you can use for this so just use the contact box on the side of this page to get in touch!</p>
+<p>Anyways, here are the release notes for this version:</p>
+<p><strong>Inputtie Version 0.1.3 (22/03/10)</strong><br />
++ Beta Release!<br />
++ Fixed an issue that was causing the mouse pointer to not quite reach the edge of the screen<br />
++ Fixed it so that you can now choose not to show the &#8220;new device&#8221; help tip.<br />
++ New Icons, yey!</p>
+<p>Grab the download over on the <a href="/download/">download page</a> now!</p>
+<p>Oh BTW we decided to go with the &#8220;e&#8221; in a bordered square for our app icon:</p>
+<p><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_16x16.png"><img class="alignnone size-full wp-image-1357" title="squareborder_16x16" src="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_16x16.png" alt="" width="16" height="16" /></a><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_32x32.png"><img class="alignnone size-full wp-image-1358" title="squareborder_32x32" src="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_32x32.png" alt="" width="32" height="32" /></a><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_48x48.png"><img class="alignnone size-full wp-image-1359" title="squareborder_48x48" src="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_48x48.png" alt="" width="48" height="48" /></a><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_304x3041.png"><img class="alignnone size-full wp-image-1360" title="squareborder_304x304" src="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_304x3041.png" alt="" width="304" height="304" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/beta-release/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

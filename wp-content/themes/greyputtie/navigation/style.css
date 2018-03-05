@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+/*@import url('/wp-content/themes/greyputtie/navigation/reset.css');*/
+
+
+
+#navigation 
+{
+width:460px;
+height:31px;
+margin:0;
+padding:0;
+float:right;
+}
+
+
+
+#navigation li
+{
+
+float:left;
+display:block;
+}
+
+#navigation li a
+{
+background-image:url(/wp-content/themes/greyputtie/navigation/images/sprite.png);
+display: block;
+	outline: none;
+	position: relative;
+	height: 31px;
+	text-decoration: none;
+	width: auto;
+}
+
+#navigation li a span
+{
+display:block;
+width:0px;
+height:0px;
+overflow:hidden;
+text-indent:-9000em;
+filter:alpha(opacity=0);
+opacity:0.0;
+-moz-opacity: 0;
+}
+
+
+	
+	#navigation li a.homebtn
+	{
+	background-position:0px 0px;
+	width:71px;
+	height:31px;
+	}
+	
+	#navigation li a.downloadbtn 
+	{
+	background-position:-71px 0px;
+	width:108px;
+	height:31px;
+	}
+	
+	#navigation li a.featuretourbtn 
+	{
+	background-position:-179px 0px;
+	width:132px;
+	height:31px;
+	}
+	
+	#navigation li a.blogbtn 
+	{
+	background-position:-311px 0px;
+	width:61px;
+	height:31px;
+	}
+	
+	#navigation li a.faqbtn
+	{
+	background-position:-372px 0px;
+	width:55px;
+	height:31px;
+	}
+	
+	
+	
+	#navigation li a .hover {
+	background: transparent  url(/wp-content/themes/greyputtie/navigation/images/sprite.png) no-repeat;
+	display:block ;
+	opacity: 0.0;
+	position: relative;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	}
+	
+	#navigation .homebtn .hover {
+	background-position: -0px -31px;
+	}
+	#navigation .downloadbtn .hover{
+	background-position: -71px -31px;
+	}
+	#navigation .featuretourbtn .hover {
+	background-position: -179px -31px;
+	}
+	#navigation .blogbtn .hover {
+	background-position: -311px -31px;
+	}
+	#navigation .faqbtn .hover {
+	background-position: -372px -31px;
+	}
+	
+	body.home #navigation li a.homebtn
+{
+background-position: -0px -31px;
+}
+
+	body.page-id-118 #navigation li a.downloadbtn
+{
+background-position: -71px -31px;
+}
+
+	body.page-id-169 #navigation li a.faqbtn
+{
+background-position: -372px -31px;
+}
+
+	body.blog #navigation li a.blogbtn
+{
+background-position: -311px -31px;
+}
+
+	body.page-id-13 #navigation li a.featuretourbtn
+{
+background-position: -179px -31px;
+}
+
+/* Contact Button */
+
+#contactbtn
+{
+width:33px;
+height:82px;
+position:absolute;
+left:0;
+top:200px;
+background-image:url(/wp-content/themes/greyputtie/images/btns/contactbtn.png);
+background-repeat:no-repeat;
+background-position:top left;
+overflow:hidden;
+text-indent:-9000em;
+}
+
+#contactbtn:hover
+{
+background-position:top right;
+}

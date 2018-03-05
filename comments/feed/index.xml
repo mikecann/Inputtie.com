@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Inputtie</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 22 Sep 2010 19:24:29 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Comment on Download by Beta Release! &#124; Inputtie</title>
+		<link>/download/#comment-69</link>
+		<dc:creator><![CDATA[Beta Release! &#124; Inputtie]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2010 19:24:29 +0000</pubDate>
+		<guid isPermaLink="false">/#comment-69</guid>
+		<description><![CDATA[[...] Download [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Download [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

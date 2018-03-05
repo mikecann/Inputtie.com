@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; News</title>
+	<atom:link href="/category/blog/news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Hello World!</title>
+		<link>/blog/hello-world/</link>
+		<comments>/blog/hello-world/#comments</comments>
+		<pubDate>Sat, 10 Apr 2010 14:06:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">/?p=1</guid>
+		<description><![CDATA[Inputtie is alive&#8230; just!]]></description>
+				<content:encoded><![CDATA[<p>Inputtie is alive&#8230; just!</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/hello-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

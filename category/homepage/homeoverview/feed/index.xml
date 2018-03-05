@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; homeoverview</title>
+	<atom:link href="/category/homepage/homeoverview/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Homepage &#8211; Features Overview</title>
+		<link>/homepage/homeoverview/homepage-features-overview/</link>
+		<comments>/homepage/homeoverview/homepage-features-overview/#comments</comments>
+		<pubDate>Tue, 25 May 2010 22:26:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[homeoverview]]></category>
+		<category><![CDATA[Not in Blog]]></category>
+
+		<guid isPermaLink="false">/?p=52</guid>
+		<description><![CDATA[One mouse &#38; keyboard Control all devices with the mouse and keyboard of one computer. Simple to use Our user interface makes device management a piece of cake. Share clipboard Copy and paste content between all of your devices. Multi-platform&#160;&#8230; <a href="/homepage/homeoverview/homepage-features-overview/">Continue&#160;reading&#160;<span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<div id="featuresoverviewtop"></div>
+<div id="featuresoverview">
+<div class="leftblock"><img src="/wp-content/themes/greyputtie/images/illustrations/onemouseicon.png" alt="" /></p>
+<h3 class="onemouse">One mouse &amp; keyboard</h3>
+<p>Control all devices with the mouse<br />
+and keyboard of one computer.</p>
+</div>
+<div class="rightblock"><img src="/wp-content/themes/greyputtie/images/illustrations/simpletouseicon.png" alt="" /></p>
+<h3 class="simpletouse">Simple to use</h3>
+<p>Our user interface makes device management a piece of cake.</p>
+</div>
+<div class="leftblock"><img src="/wp-content/themes/greyputtie/images/illustrations/shareclipboardicon.png" alt="" /></p>
+<h3 class="shareclipboard">Share clipboard</h3>
+<p>Copy and paste content between all of your devices.</p>
+</div>
+<div class="rightblock"><img src="/wp-content/themes/greyputtie/images/illustrations/multiplatformicon.png" alt="" /></p>
+<h3 class="multiplatform">Multi-platform</h3>
+<p>Seamlessly unite your Windows, Apple and Linux devices.</p>
+</div>
+</div>
+<div id="featuresoverviewbtm"></div>
+]]></content:encoded>
+			<wfw:commentRss>/homepage/homeoverview/homepage-features-overview/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

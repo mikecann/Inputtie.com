@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; app</title>
+	<atom:link href="/tag/app/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Potential App Icons</title>
+		<link>/blog/potential-app-icons/</link>
+		<comments>/blog/potential-app-icons/#comments</comments>
+		<pubDate>Mon, 20 Sep 2010 17:58:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[icons]]></category>
+		<category><![CDATA[potential]]></category>
+
+		<guid isPermaLink="false">/?p=226</guid>
+		<description><![CDATA[With the beta for Inputtie drawing very near Oli and I are adding some final touches to the build and doing those &#8220;things we meant to do for ages&#8221;.  One of those things being the app icon. This is the&#160;&#8230; <a href="/blog/potential-app-icons/">Continue&#160;reading&#160;<span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>With the beta for <a href="/">Inputtie</a> drawing very near Oli and I are adding some final touches to the build and doing those &#8220;things we meant to do for ages&#8221;.  One of those things being the app icon. This is the icon you will see on your shortcuts and in your taskbar area so its going to be pretty visible.</p>
+<p><a href="http://www.olip.co.uk/">Oli</a>, my partner-in-crime has whipped up 2 different versions with 2 variations on each version. See what you think:</p>
+<p><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/round_304x304.png"><img class="alignnone size-full wp-image-1341" title="round_304x304" src="http://mikecann.co.uk/wp-content/uploads/2010/09/round_304x304.png" alt="" width="304" height="304" /></a><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/roundborder_304x304.png"><img class="alignnone size-full wp-image-1342" title="roundborder_304x304" src="http://mikecann.co.uk/wp-content/uploads/2010/09/roundborder_304x304.png" alt="" width="304" height="304" /></a></p>
+<p><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/square_304x304.png"><img class="alignnone size-full wp-image-1343" title="square_304x304" src="http://mikecann.co.uk/wp-content/uploads/2010/09/square_304x304.png" alt="" width="304" height="304" /></a><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_304x304.png"><img class="alignnone size-full wp-image-1344" title="squareborder_304x304" src="http://mikecann.co.uk/wp-content/uploads/2010/09/squareborder_304x304.png" alt="" width="304" height="304" /></a></p>
+<p>I personally am favouring the circle icon with the border, however I worry that it looks too much like the Internet Explorer icon.</p>
+<p>What do you all think?</p>
+<p>Leave a comment below.</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/potential-app-icons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

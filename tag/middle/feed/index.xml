@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; middle</title>
+	<atom:link href="/tag/middle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Version 0.1.5</title>
+		<link>/blog/version-0-1-5/</link>
+		<comments>/blog/version-0-1-5/#comments</comments>
+		<pubDate>Sun, 17 Oct 2010 19:22:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[click]]></category>
+		<category><![CDATA[middle]]></category>
+		<category><![CDATA[mouse]]></category>
+		<category><![CDATA[new]]></category>
+		<category><![CDATA[version]]></category>
+
+		<guid isPermaLink="false">/?p=261</guid>
+		<description><![CDATA[Just a few small changes in this update: From the release notes: Inputtie Version 0.1.5 (17/10/10) + Middle mouse input is now caught and transferred between devices + More errors are caught in the client + Keys are now depressed&#160;&#8230; <a href="/blog/version-0-1-5/">Continue&#160;reading&#160;<span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>Just a few small changes in this update:</p>
+<p>From the release notes:</p>
+<p>Inputtie Version 0.1.5 (17/10/10)</p>
+<p>+ Middle mouse input is now caught and transferred between devices<br />
++ More errors are caught in the client<br />
++ Keys are now depressed when a connection is cut, no more lingering Shift, yey!</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/version-0-1-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

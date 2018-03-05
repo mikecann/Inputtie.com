@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; Uncategorized</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>&#8220;Inputtie is a must-have application&#8221;</title>
+		<link>/uncategorized/time-saving/</link>
+		<comments>/uncategorized/time-saving/#comments</comments>
+		<pubDate>Wed, 20 Oct 2010 20:44:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Not in Blog]]></category>
+		<category><![CDATA[testimonials]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=263</guid>
+		<description><![CDATA[&#8220;Anyone who works on multiple computers should try Inputtie.  It&#8217;s simple to set up and it&#8217;s mouse sharing feature have saved me countless hours.&#8221;Simon Jones. Company Director, Peppermint P]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Anyone who works on multiple computers should try Inputtie.  It&#8217;s simple to set up and it&#8217;s mouse sharing feature have saved me countless hours.&#8221;<br/><strong>Simon Jones. Company Director, Peppermint P</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/uncategorized/time-saving/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

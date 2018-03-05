@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; photo</title>
+	<atom:link href="/tag/photo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Beta Draws Near!</title>
+		<link>/blog/beta-draws-near/</link>
+		<comments>/blog/beta-draws-near/#comments</comments>
+		<pubDate>Tue, 21 Sep 2010 19:27:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Beta]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[photo]]></category>
+		<category><![CDATA[testing]]></category>
+
+		<guid isPermaLink="false">/?p=233</guid>
+		<description><![CDATA[Final testing is under way here at mission control for the Inputtie Beta. 1 Keyboard, 1 Mouse, 1 PC, 2 Laptops, 1 Netbook, 4 Operating Systems. All systems are go! Almost ready for takeoff!]]></description>
+				<content:encoded><![CDATA[<p>Final testing is under way here at mission control for the <a href="/">Inputtie</a> Beta.</p>
+<p><a href="http://mikecann.co.uk/wp-content/uploads/2010/09/photo1.jpg"><img class="alignnone size-full wp-image-1350" title="photo" src="http://mikecann.co.uk/wp-content/uploads/2010/09/photo1.jpg" alt="" width="700" height="525" /></a></p>
+<p>1 Keyboard, 1 Mouse, 1 PC, 2 Laptops, 1 Netbook, 4 Operating Systems.</p>
+<p>All systems are go! Almost ready for takeoff!</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/beta-draws-near/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

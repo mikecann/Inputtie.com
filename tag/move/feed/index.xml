@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Inputtie &#187; move</title>
+	<atom:link href="/tag/move/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Nov 2010 20:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.25</generator>
+	<item>
+		<title>Version 0.1.6</title>
+		<link>/blog/version-0-1-6/</link>
+		<comments>/blog/version-0-1-6/#comments</comments>
+		<pubDate>Mon, 25 Oct 2010 22:11:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[edge]]></category>
+		<category><![CDATA[mouse]]></category>
+		<category><![CDATA[move]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[version]]></category>
+
+		<guid isPermaLink="false">/?p=275</guid>
+		<description><![CDATA[A few small stability changes again in this version. Release notes are as follows: Inputtie Version 0.1.6 (25/10/10) + Inputtie now checks for updates every 12 hours + Mouse can now correctly reach all the way to the edge of&#160;&#8230; <a href="/blog/version-0-1-6/">Continue&#160;reading&#160;<span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<p>A few small stability changes again in this version.</p>
+<p>Release notes are as follows:</p>
+<p><strong>Inputtie Version 0.1.6 (25/10/10) </strong></p>
+<p>+ Inputtie now checks for updates every 12 hours<br />
++ Mouse can now correctly reach all the way to the edge of the screen<br />
++ Mouse now remains in the last position it was before the connection closes</p>
+]]></content:encoded>
+			<wfw:commentRss>/blog/version-0-1-6/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
