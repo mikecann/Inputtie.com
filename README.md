@@ -1,3 +1,5 @@
+![screenshot](https://imgur.com/a/M8LdiVS)
+
 # Inputtie.com
 
 This is a backup of a wordpress site I built many moons ago. 
