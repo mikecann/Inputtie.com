@@ -1,4 +1,4 @@
-![screenshot](https://imgur.com/a/M8LdiVS)
+![screenshot](https://i.imgur.com/Gv6IjSH.png)
 
 # Inputtie.com
 
